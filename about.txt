@@ -1,0 +1,6 @@
+This plugin add outfits that can produce fighters for you. 
+(2 fighter per landing max)
+
+For 0.9.16.1
+
+Made by 1010todd
